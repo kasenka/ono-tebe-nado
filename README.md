@@ -1,3 +1,3 @@
 # ono-tebe-nado
 Проект "Оно тебе надо"
-https://github.com/Stepan-Kukhnikov/ono-tebe-nado.git
+https://github.com/kasenka/ono-tebe-nado
